@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/bulletController.js">
+    <Files>
+      <File FileName="Assets/scripts/bulletController.js" Line="20" Column="51" />
+      <File FileName="Assets/scripts/shipController.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/cannonController.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/stageDirector.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Data.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/autoDestroy.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
